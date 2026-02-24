@@ -69,7 +69,7 @@ export default function Solution() {
             <div className="container">
                 <div className="solution-header reveal">
                     <p className="section-label">The Solution</p>
-                    <h2 className="section-title">Compliance, <span>Reimagined</span></h2>
+                    <h2 className="section-title"> <span> Compliance, Reimagined</span></h2>
                     <p className="section-subtitle">
                         RegVia turns compliance from a cost center into a strategic advantage with
                         risk-aware intelligence.

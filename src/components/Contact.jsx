@@ -7,7 +7,7 @@ export default function Contact() {
                 <div className="container">
                     <div className="contact-inner reveal">
                         <p className="section-label">Get in Touch</p>
-                        <h2 className="section-title">Ready to <span>De-Risk</span> Your Compliance?</h2>
+                        <h2 className="section-title"><span>Ready to De-Risk Your Compliance?</span></h2>
                         <p className="section-subtitle">
                             Let us help you quantify risk, reduce exposure, and stay audit-ready.
                         </p>

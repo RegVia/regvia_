@@ -46,7 +46,7 @@ export default function Problem() {
             <div className="container">
                 <div className="problem-header reveal">
                     <p className="section-label">The Problem</p>
-                    <h2 className="section-title">Compliance Today Is <span>Broken</span></h2>
+                    <h2 className="section-title"> <span> Compliance Today Is  Broken</span></h2>
                     <p className="section-subtitle">
                         Traditional compliance tools give you a checkbox. You need a crystal ball.
                     </p>
