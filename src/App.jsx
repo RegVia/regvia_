@@ -4,6 +4,7 @@ import Hero from './components/Hero';
 import Problem from './components/Problem';
 import Solution from './components/Solution';
 import Contact from './components/Contact';
+import About from './components/About';
 
 function App() {
   useEffect(() => {
@@ -32,6 +33,7 @@ function App() {
         <Hero />
         <Problem />
         <Solution />
+        <About />
         <Contact />
       </main>
     </>

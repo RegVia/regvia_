@@ -32,6 +32,7 @@ export default function Navbar() {
                 <ul className={`navbar-links${menuOpen ? ' open' : ''}`} role="navigation">
                     <li><a href="#problem" onClick={close}>Problem</a></li>
                     <li><a href="#solution" onClick={close}>Solution</a></li>
+                    <li><a href="#about" onClick={close}>About</a></li>
                     <li><a href="#contact" onClick={close}>Contact</a></li>
                     <li>
                         <a href="mailto:info@regvia.ai" onClick={close}>
