@@ -35,7 +35,7 @@ export default function Navbar() {
                     <li><a href="#about" onClick={close}>About</a></li>
                     <li><a href="#contact" onClick={close}>Contact</a></li>
                     <li>
-                        <a href="mailto:info@regvia.ai" onClick={close}>
+                        <a href="mailto:info@regvia.in" onClick={close}>
                             <button className="navbar-cta" aria-label="Contact RegVia">Get in Touch</button>
                         </a>
                     </li>

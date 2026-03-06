@@ -27,7 +27,7 @@ export default function Hero() {
                         compliance gaps <strong>before</strong> regulators come knocking.
                     </p>
                     <div className="hero-actions">
-                        <a href="mailto:info@regvia.ai" className="hero-cta hero-cta--primary">
+                        <a href="mailto:info@regvia.in" className="hero-cta hero-cta--primary">
                             Request a Demo
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none"
                                 stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
