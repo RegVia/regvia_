@@ -35,6 +35,11 @@ export default function Navbar() {
                     <li><a href="#about" onClick={close}>About</a></li>
                     <li><a href="#contact" onClick={close}>Contact</a></li>
                     <li>
+                        <a href="https://regvia-eight.vercel.app" target="_blank" rel="noopener noreferrer" onClick={close}>
+                            <button className="navbar-demo" aria-label="Try the RegVia interactive demo">Try Live Demo</button>
+                        </a>
+                    </li>
+                    <li>
                         <a href="mailto:info@regvia.in" onClick={close}>
                             <button className="navbar-cta" aria-label="Contact RegVia">Get in Touch</button>
                         </a>
